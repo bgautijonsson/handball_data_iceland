@@ -4,8 +4,7 @@
 
 The data in this repository is scraped from [hbstatz.is](https://hbstatz.is).
 
-The following R code can be used to read in the data:
-
+The following URLs can be used for reading the data into R.
 
 | Sex   | Type             | URL |
 |-------|------------------|-----|
