@@ -44,16 +44,21 @@ mot_nr <- c(
   "1995" = 11
 )
 
-urls <- glue(base_url)
+urls <- glue(base_url) |> as.character()
+names(urls) <- names(mot_nr)
 
-d <- urls |> 
-  map(\(x) read_html(x) |> html_table() |> pluck(2)) |> 
-  list_rbind()
+
+
+data <- urls |> 
+  map(\(x) read_html(x) |> html_table() |> pluck(2))
+  
+d <- data |> 
+  list_rbind(names_to = "timabil")
 
 d <- d |> 
   janitor::clean_names() |> 
   select(
-    dagur, timi, leikur, urslit
+    timabil, dagur, timi, leikur, urslit
   ) |> 
   mutate(
     dags = dmy_hm(str_c(dagur, timi, sep = " ")),
@@ -66,6 +71,7 @@ d <- d |>
     convert = TRUE
   ) |> 
   select(
+    timabil,
     dags,
     heima,
     gestir,
