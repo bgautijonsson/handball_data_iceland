@@ -1,23 +1,27 @@
 Lið,Nafn,Tímabil,Leikir,Varin,% Varsla,Mörk á,Víti Varin,Víta %,Stl,Mörk,Stoð,TB,Gul,2Mín,Rau
-Stjarnan,Adam Thorstensen,2023/24,6,5,29.4,12,0.3,18.2,0,0,0,0.2,0,0,0
+Stjarnan,Adam Thorstensen,2023/24,24,8.9,33.8,17.4,0.5,25.5,0,0,0.3,0.3,0,0,0
 Stjarnan,Adam Thorstensen,2022/23,22,6.3,29.1,15.3,0.3,18.8,0.1,0,0.3,0.1,0,0,0
 Stjarnan,Adam Thorstensen,2021/22,11,6.4,33.8,12.5,0.6,50,0,0,0.1,0,0,0,0
 Stjarnan,Adam Thorstensen,2020/21,23,8.1,30.2,18.8,0.6,27.5,0.1,0,0,0.2,0,0,0
 IR,Adam Thorstensen,2018/19,11,1.4,35.7,2.5,0.2,20,0,0,0.1,0,0,0,0
-Selfoss,Alexander Hrafnkelsson,2023/24,5,0,0,1.6,0,0,0,0,0,0.2,0,0,0
+IR,Adam Thorstensen,2017/18,2,0,0,0,0,0,0,0,0,0,0,0,0
+Selfoss,Alexander Hrafnkelsson,2023/24,18,3.1,30.4,7.1,0.2,14.3,0.1,0.2,0.1,0.2,0,0,0
 Selfoss,Alexander Hrafnkelsson,2022/23,10,2.9,40.3,4.3,0.1,25,0,0,0.4,0.2,0,0,0
 Selfoss,Alexander Hrafnkelsson,2021/22,3,4,28.6,10,0.3,100,0,0,0,0,0,0,0
 Selfoss,Alexander Hrafnkelsson,2020/21,24,0.3,15.7,1.8,0.2,19,0,0,0,0,0,0,0
 Selfoss,Alexander Hrafnkelsson,2019/20,4,10.3,32.8,21,0.5,18.2,0,0,0.8,0.5,0,0,0
 Selfoss,Alexander Hrafnkelsson,2018/19,2,0,0,0,0,0,0,0,0,0,0,0,0
+Selfoss,Alexander Hrafnkelsson,2017/18,2,1,22.2,3.5,0,0,0,0,0,0,0,0,0
 Fjolnir,Andreas Örn Aðalsteinsson,2019/20,1,4,25,12,0,0,0,0,0,0,0,0,0
 Afturelding,Andri Sigmarsson Scheving,2021/22,21,9.3,30.6,21,0.3,11.3,0.1,0,0.1,0.3,0,0,0
 Haukar,Andri Sigmarsson Scheving,2020/21,28,4.4,34.4,8.4,0.1,11.8,0,0.1,0.2,0,0,0,0
 Haukar,Andri Sigmarsson Scheving,2019/20,20,5,34.8,9.4,0.6,23.9,0,0,0.1,0,0,0,0
 Haukar,Andri Sigmarsson Scheving,2018/19,34,3.2,38.2,5.1,0.6,37,0.1,0.1,0,0,0,0,0
+Haukar,Andri Sigmarsson Scheving,2017/18,27,1.1,31,2.6,0.1,20,0,0,0.1,0,0,0,0
 IBV,Andri Ísak Sigfússon,2018/19,4,0,0,2.5,0,0,0,0,0,0,0,0,0
-Haukar,Ari Dignus Maríuson,2023/24,1,0,0,0,0,0,0,0,0,0,0,0,0
-Valur,Arnar Þór Fylkisson,2023/24,5,1.4,36.8,2.4,0.2,100,0,0,0,0,0,0,0
+IBV,Andri Ísak Sigfússon,2017/18,15,0.3,36.4,0.5,0,0,0,0,0,0,0,0,0
+Haukar,Ari Dignus Maríuson,2023/24,3,0.3,25,1,0,0,0,0,0,0,0,0,0
+Valur,Arnar Þór Fylkisson,2023/24,20,2.4,35.8,4.3,0.2,25,0,0.1,0.1,0.1,0,0,0
 Thor,Arnar Þór Fylkisson,2020/21,22,3.5,26.6,9.8,0.2,15.4,0,0,0,0.4,0,0,0
 Akureyri,Arnar Þór Fylkisson,2018/19,22,6.5,28.9,16,0.6,28.3,0,0,0.2,0.1,0,0,0
 Stjarnan,Arnór Freyr Stefánsson,2022/23,20,4.5,31.7,9.6,0.6,30.8,0.1,0.1,0.2,0.1,0,0,0
@@ -25,66 +29,78 @@ Stjarnan,Arnór Freyr Stefánsson,2021/22,21,6.1,27.1,16.4,0.3,18.9,0,0,0.2,0.1,
 Afturelding,Arnór Freyr Stefánsson,2020/21,19,5.7,31.5,12.5,0.3,17.9,0,0.1,0.1,0.1,0,0,0
 Afturelding,Arnór Freyr Stefánsson,2019/20,20,10.6,31.8,22.7,0.5,20,0.2,0.1,0.4,0.2,0.1,0,0
 Afturelding,Arnór Freyr Stefánsson,2018/19,15,10.3,35.1,19,0.3,19,0.3,0.1,0.6,0.1,0.1,0,0
-Fram,Arnór Máni Daðason,2023/24,5,8.8,31.9,18.8,0.4,18.2,0,0,0.2,0.2,0,0,0
+Fram,Arnór Máni Daðason,2023/24,23,4.3,26.9,11.6,0.3,17.6,0,0,0.2,0.1,0,0,0
 Fram,Arnór Máni Daðason,2022/23,17,3,26,8.5,0.2,20,0,0.1,0.1,0.2,0,0,0
 Fram,Arnór Máni Daðason,2021/22,15,2.1,20.5,8,0.2,20,0,0,0.1,0,0,0,0
-Haukar,Aron Rafn Eðvarðsson,2023/24,5,10.2,32.1,21.6,0.6,27.3,0.8,0.2,1.2,0.2,0,0,0
+Haukar,Aron Rafn Eðvarðsson,2023/24,22,8.8,33.2,17.7,0.7,25.4,0.3,0.3,0.5,0.2,0,0,0
 Haukar,Aron Rafn Eðvarðsson,2022/23,20,10.1,31,22.5,0.9,30.4,0.2,0.3,0.5,0.2,0,0,0
 Haukar,Aron Rafn Eðvarðsson,2021/22,17,10.4,33.5,20.5,0.5,24.3,0.2,0.2,0.8,0.2,0,0,0
-FH,Axel Hreinn Hilmisson,2023/24,6,0.8,27.8,2.2,0,0,0,0,0.2,0,0,0,0
+IBV,Aron Rafn Eðvarðsson,2017/18,30,10.1,33.9,19.6,0.6,31.6,0.3,0.1,0.6,0.1,0,0,0
+FH,Axel Hreinn Hilmisson,2023/24,33,0.6,23.8,1.9,0.1,30.8,0,0,0,0,0,0,0
 FH,Axel Hreinn Hilmisson,2022/23,22,1.9,23.7,6,0.2,18.2,0,0,0,0.1,0,0,0
 Fjolnir,Axel Hreinn Hilmisson,2019/20,19,3.9,28.8,9.6,0.3,27.8,0,0,0.1,0.1,0,0,0
+FH,Ágúst Elí Björgvinsson,2017/18,33,10.2,33.1,20.7,0.5,25,0.2,0,0.5,0.4,0,0,0
+Fjolnir,Ástgeir Rúnar Sigmarsson,2017/18,4,0.8,17.6,3.5,0,0,0.3,0,0,0,0,0,0
 Stjarnan,Baldur Ingi Pétursson,2021/22,1,0,0,0,0,0,0,0,0,0,0,0,0
 FH,Birkir Fannar Bragason,2020/21,24,3.3,28.9,8.2,0.3,22.9,0,0,0.3,0.2,0,0,0
 FH,Birkir Fannar Bragason,2019/20,20,2.4,33.3,4.8,0.4,27.6,0,0.1,0.1,0.2,0.1,0,0
 FH,Birkir Fannar Bragason,2018/19,24,5.8,28,14.8,0.3,21.1,0.3,0.2,0.3,0.3,0,0,0
+FH,Birkir Fannar Bragason,2017/18,33,3.2,31.7,7,0.1,9.5,0,0,0.3,0.1,0,0,0
+Vikingur,Bjarki Garðarsson,2023/24,10,3.7,28,9.5,0.4,25,0.1,0,0.3,0,0,0,0
 Vikingur,Bjarki Garðarsson,2021/22,12,2.2,31.7,4.7,0.2,18.2,0,0,0.2,0.1,0,0,0
+Vikingur,Bjarki Garðarsson,2017/18,8,3.1,20.3,12.3,0.5,36.4,0,0,0,0.1,0,0,0
 Grotta,Bjarki Daníel Þórarinsson,2021/22,1,0,0,0,0,0,0,0,0,0,0,0,0
 Afturelding,Bjarki Snær Jónsson,2020/21,15,1.6,26.1,4.5,0.3,44.4,0,0,0,0,0,0,0
 Fjolnir,Bjarki Snær Jónsson,2019/20,16,9.8,28.3,24.8,0.3,13.2,0,0.2,0.3,0.2,0,0,0
+Fjolnir,Bjarki Snær Jónsson,2017/18,18,5.2,28.1,13.3,0.2,13.6,0,0,0,0,0,0,0
 Afturelding,Björgvin Franz Björgvinsson,2021/22,4,1.5,26.1,4.3,0,0,0,0,0,0,0,0,0
 Afturelding,Björgvin Franz Björgvinsson,2020/21,8,2,18.8,8.6,0.1,20,0,0,0,0,0,0,0
 Afturelding,Björgvin Franz Björgvinsson,2019/20,19,1.7,33,3.5,0.3,29.4,0.1,0.1,0,0,0,0,0
 Afturelding,Björgvin Franz Björgvinsson,2018/19,9,1.2,19.3,5.1,0.1,16.7,0,0,0,0,0,0,0
-Valur,Björgvin Páll Gústavsson,2023/24,6,14.8,39.6,22.7,0.7,36.4,0,0.7,1.5,0.3,0,0,0
+Afturelding,Björgvin Franz Björgvinsson,2017/18,1,2,25,6,1,50,0,0,0,0,0,0,0
+Valur,Björgvin Páll Gústavsson,2023/24,28,12.3,34.8,23.1,0.6,24.6,0.1,0.4,1,0.5,0,0,0
 Valur,Björgvin Páll Gústavsson,2022/23,22,10.8,32.5,22.5,0.5,16.4,0.2,0.2,0.8,0.5,0.2,0,0
 Valur,Björgvin Páll Gústavsson,2021/22,30,12.4,35.7,22.3,0.8,28,0.1,0.2,0.9,0.6,0.1,0,0
 Haukar,Björgvin Páll Gústavsson,2020/21,27,8.7,34.7,16.4,0.4,20.7,0.1,0.1,0.6,0.3,0.1,0,0
+Haukar,Björgvin Páll Gústavsson,2017/18,27,13.4,38.7,21.2,0.5,26.4,0.2,0.5,1.4,0.4,0,0,0
 IBV,Björn Viðar Björnsson,2022/23,1,2,20,8,0,0,0,0,0,0,0,0,0
 IBV,Björn Viðar Björnsson,2021/22,32,5.2,29.3,12.5,0.4,23.1,0.1,0,0.2,0.1,0,0.1,0
 IBV,Björn Viðar Björnsson,2020/21,26,3.5,27.4,9.4,0.2,15.4,0,0,0.2,0.1,0,0,0
 IBV,Björn Viðar Björnsson,2019/20,19,4.7,32.8,9.6,0.1,7.1,0.1,0.1,0.1,0.1,0,0.1,0
 IBV,Björn Viðar Björnsson,2018/19,29,7.5,30.3,17.2,0.5,25,0.1,0,0.3,0.2,0,0,0
-Fram,Breki Hrafn Árnason,2023/24,5,0.6,16.7,3,0.2,100,0,0,0.2,0,0,0,0
+Fram,Breki Hrafn Árnason,2023/24,18,1.9,21.2,7.2,0.1,25,0,0,0.2,0,0,0,0
 Fram,Breki Hrafn Árnason,2022/23,9,7.9,30.1,18.3,0.3,18.8,0,0,0,0,0,0,0
-KA,Bruno Bernat,2023/24,5,7.4,28.2,18.8,0.4,22.2,0,0,0.4,0,0,0,0
+KA,Bruno Bernat,2023/24,24,8,31.3,17.7,0.4,17.6,0,0,0.6,0.2,0,0,0
 KA,Bruno Bernat,2022/23,22,6.3,32,13.3,0.4,28.6,0,0,0.7,0.4,0,0,0
 KA,Bruno Bernat,2021/22,25,3,25.5,8.8,0.2,15.6,0,0,0.4,0.1,0,0,0
 KA,Bruno Bernat,2020/21,11,1.9,32.8,3.9,0.2,20,0,0,0.1,0,0,0,0
 Stjarnan,Brynjar Darri Baldursson,2021/22,6,7.8,33.1,15.8,0.3,20,0.2,0,0,0.3,0,0,0
 Stjarnan,Brynjar Darri Baldursson,2020/21,12,5,26.7,13.8,0.4,22.7,0.1,0,0.2,0.1,0,0,0
 Stjarnan,Brynjar Darri Baldursson,2019/20,15,6,30,14,0.3,14.8,0,0.1,0.2,0.1,0,0,0
-Afturelding,Brynjar Vignir Sigurjónsson,2023/24,5,9.4,35.1,17.4,0,0,0,0,0.6,0,0,0,0
+Afturelding,Brynjar Vignir Sigurjónsson,2023/24,33,7.3,31.3,15.9,0.3,25.6,0,0.1,0.3,0.1,0,0,0
 Afturelding,Brynjar Vignir Sigurjónsson,2022/23,28,4,27.7,10.5,0.1,12.5,0.1,0,0.2,0,0,0,0
 Afturelding,Brynjar Vignir Sigurjónsson,2021/22,13,3.1,28.8,7.6,0.3,25,0,0,0.2,0.1,0,0,0
 Afturelding,Brynjar Vignir Sigurjónsson,2020/21,21,4.8,25.6,14,0.3,20.6,0,0,0.2,0.1,0,0,0
 Afturelding,Brynjar Vignir Sigurjónsson,2019/20,1,0,0,0,0,0,0,0,0,0,0,0,0
 Afturelding,Brynjar Vignir Sigurjónsson,2018/19,1,6,26.1,17,1,50,0,0,0,0,0,0,0
-Vikingur,Daníel Andri Valtýsson,2023/24,5,3.2,23.5,10.4,0.2,14.3,0.2,0,0.4,0.2,0,0,0
+Stjarnan,Daði Bergmann Gunnarsson,2023/24,2,0.5,50,0.5,0.5,50,0,0,0,0,0,0,0
+Vikingur,Daníel Andri Valtýsson,2023/24,18,6.6,27.4,17.4,0.2,8.6,0.1,0,0.2,0.2,0,0,0
 Grotta,Daníel Andri Valtýsson,2022/23,16,3,32,6.4,0.1,8.3,0,0,0.1,0.1,0,0,0
 Grotta,Daníel Andri Valtýsson,2020/21,20,1.4,21.8,4.9,0,0,0,0,0,0,0,0,0
-FH,Daníel Freyr Andrésson,2023/24,6,14.2,39,22.2,0.7,26.7,0,0,0.3,0.3,0,0,0
+FH,Daníel Freyr Andrésson,2023/24,33,12.2,32.8,24.9,1,31.1,0.1,0,0.5,0.1,0,0,0
 Valur,Daníel Freyr Andrésson,2019/20,20,8.5,35.3,15.5,0.4,21.1,0.1,0.2,0.5,0.1,0,0,0
 Valur,Daníel Freyr Andrésson,2018/19,27,10.9,35.6,19.7,0.3,16.4,0.3,0.3,0.6,0.1,0,0,0
 Afturelding,Davíð Hlíðdal Svansson,2022/23,1,0,0,1,0,0,0,0,0,0,0,0,0
-Afturelding,Davíð Hlíðdal Svansson,2021/22,11,1.2,22,4.2,0.2,16.7,0.1,0,0,0.1,0,0,0
+KA,Davíð Hlíðdal Svansson,2021/22,11,1.2,22,4.2,0.2,16.7,0.1,0,0,0.1,0,0,0
 HK,Davíð Hlíðdal Svansson,2019/20,20,8.5,30.3,19.6,0.3,13.9,0,0.1,0.3,0.2,0,0,0
-Grotta,Einar Baldvin Baldvinsson,2023/24,5,10.4,28.6,26,0,0,0,0,0.4,0.2,0,0,0
+Vikingur,Davíð Hlíðdal Svansson,2017/18,14,8.9,29,21.6,0.4,16.1,0.1,0.1,0.4,0.3,0,0.1,0
+Grotta,Einar Baldvin Baldvinsson,2023/24,21,11.6,32.2,24.3,0.2,14.3,0,0.2,0.9,0.4,0,0,0
 Grotta,Einar Baldvin Baldvinsson,2022/23,22,10,30.5,22.9,0.4,13.8,0,0.1,1,0.5,0,0,0
 Grotta,Einar Baldvin Baldvinsson,2021/22,22,11.6,30.9,25.9,0.5,19.6,0,0.4,0.9,0.8,0,0,0
 Valur,Einar Baldvin Baldvinsson,2020/21,28,4.3,27.4,11.4,0.3,20,0,0.1,0.1,0.1,0,0,0
 Selfoss,Einar Baldvin Baldvinsson,2019/20,19,6.1,27.5,15.9,0.2,11.8,0,0.1,0.4,0.2,0,0,0
 Valur,Einar Baldvin Baldvinsson,2018/19,25,3.3,38.1,5.4,0.2,26.1,0,0,0.2,0.2,0,0,0
+Valur,Einar Baldvin Baldvinsson,2017/18,24,4.2,29.5,10,0.3,20.6,0.2,0,0.2,0.2,0,0,0
 Selfoss,Einar Gunnar Gunnlaugsson,2022/23,1,1,100,0,0,0,0,0,1,0,0,0,0
 Vikingur,Einar Rafn Magnússon,2021/22,1,0,0,1,0,0,0,0,0,0,0,0,0
 IBV,Einar Þór Jónsson,2022/23,2,0,0,2,0,0,0,0,0,0,0,0,0
@@ -93,19 +109,26 @@ Hordur,Emannuel Evangelista,2022/23,14,4.1,26.5,11.3,0.1,10,0,0.1,0.1,0.1,0.1,0,
 Stjarnan,Finnbogi Árnason,2019/20,2,0,0,0.5,0,0,0,0,0,0,0,0,0
 Haukar,Grétar Ari Guðjónsson,2019/20,20,9.2,36.1,16.3,0.2,21.1,0.1,0.2,0.2,0.2,0,0,0
 Haukar,Grétar Ari Guðjónsson,2018/19,34,11.6,34.8,21.8,0.2,15,0.2,0.1,0.2,0.3,0,0,0
+IR,Grétar Ari Guðjónsson,2017/18,23,12.3,32.6,25.4,0.6,22.4,0,0.2,0.4,0.2,0,0,0
 IR,Guðmundur Helgi Imsland,2022/23,1,0,0,0,0,0,0,0,0,0,0,0,0
+Grotta,Hannes Pétur Hauksson,2023/24,2,1.5,37.5,2.5,0.5,100,0,0,0,0,0,0,0
 IBV,Haukur Jónsson,2019/20,1,0,0,1,0,0,0,0,0,0,0,0,0
+Vikingur,Heiðar Snær Tómasson,2023/24,4,1,19,4.3,0,0,0,0,0,0,0,0,0
 Selfoss,Helgi Hlynsson,2018/19,4,4.3,26.2,12,0.3,16.7,0,0,0,0,0,0,0
+Selfoss,Helgi Hlynsson,2017/18,28,5.7,28.9,14,0.5,31.7,0.1,0,0.3,0.1,0,0,0
+Vikingur,Hrafn Valdísarson,2017/18,20,3.7,24.1,11.7,0.2,15.8,0,0.1,0.4,0.2,0,0,0
 Valur,Hreiðar Levý Guðmundsson,2020/21,1,0,0,0,0,0,0,0,0,0,0,0,0
 Valur,Hreiðar Levý Guðmundsson,2019/20,19,5.1,36.5,8.8,0.3,23.1,0,0,0.1,0,0,0,0
 Grotta,Hreiðar Levý Guðmundsson,2018/19,19,11,33.5,21.8,0.7,22.2,0.2,0.1,0.4,0.1,0.1,0.1,0
+Grotta,Hreiðar Levý Guðmundsson,2017/18,21,12.5,32.5,25.9,0.9,29.7,0.1,0.1,0.2,0.2,0,0,0
 HK,Ingvar Ingvarsson,2021/22,3,4.7,30.4,10.7,0.3,33.3,0,0.3,0,0,0,0,0
 Fjolnir,Ingvar Kristinn Guðmundsson,2019/20,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fjolnir,Ingvar Kristinn Guðmundsson,2017/18,22,6.5,27.2,17.5,0.3,17.1,0,0,0.2,0.2,0,0,0
 Grotta,Ísak Arnar Kolbeins,2022/23,11,0.5,21.7,1.6,0.1,12.5,0,0,0,0,0,0,0
 Grotta,Ísak Arnar Kolbeins,2021/22,22,0.6,24.5,1.8,0.1,15.4,0,0,0.1,0,0,0,0
 Grotta,Ísak Arnar Kolbeins,2020/21,7,0.4,13,2.9,0,0,0,0,0,0,0,0,0
 Grotta,Ísak Arnar Kolbeins,2018/19,3,4,24.5,12.3,0,0,0,0.3,0,0,0,0,0
-Afturelding,Jovan Kukobat,2023/24,5,4.8,38.1,7.8,0.6,60,0,0,0,0,0,0,0
+Afturelding,Jovan Kukobat,2023/24,33,6,35.2,11,0.4,28.6,0.1,0,0.1,0.1,0,0,0
 Afturelding,Jovan Kukobat,2022/23,29,7.7,31,17.2,0.5,21.4,0.1,0,0.6,0.2,0,0,0
 Vikingur,Jovan Kukobat,2021/22,22,10.2,31.4,22.4,0.6,24.1,0.3,0,0.3,0.2,0,0,0
 Thor,Jovan Kukobat,2020/21,22,8.7,33.6,17.2,0.6,30.2,0.1,0.1,0.3,0.3,0,0,0
@@ -114,20 +137,22 @@ KA,Jovan Kukobat,2018/19,22,11.5,31.4,25.2,0.9,23.8,0.1,0.2,0,0.2,0,0,0
 IBV,Jóhannes Esra Ingólfsson,2023/24,1,2,66.7,1,0,0,0,0,0,0,0,0,0
 IBV,Jóhannes Esra Ingólfsson,2022/23,12,1.3,17.4,5.9,0,0,0,0,0,0,0,0,0
 Valur,Jón Sigfús Jónsson,2019/20,1,0,0,0,0,0,0,0,0,0,0,0,0
-Selfoss,Jón Þórarinn Þorsteinsson,2023/24,5,3,22.1,10.6,0.2,16.7,0,0,0,0,0,0,0
+Selfoss,Jón Þórarinn Þorsteinsson,2023/24,18,4.2,27.9,10.8,0.1,8,0.1,0,0.1,0.1,0,0,0
 Selfoss,Jón Þórarinn Þorsteinsson,2022/23,20,4.9,30.9,11,0.2,19,0,0.2,0.3,0.1,0,0.1,0
 FH,Júlíus Freyr Bjarnason,2021/22,2,1,25,3,0.5,50,0,0,0,0,0,0,0
 FH,Júlíus Freyr Bjarnason,2020/21,4,0.5,14.3,3,0,0,0,0,0,0,0,0,0
 HK,Kjartan Bogi Jónsson,2019/20,4,0,0,0,0,0,0,0,0,0,0,0,0
 FH,Kristján Rafn Oddsson,2022/23,5,0.2,9.1,2,0,0,0,0,0,0,0,0,0
 FH,Kristján Rafn Oddsson,2021/22,1,0,0,2,0,0,0,0,0,0,0,0,0
-Fram,Lárus Helgi Ólafsson,2023/24,4,4.5,28.1,11.5,1,50,0,0,0,0,0,0,0
+Stjarnan,Lárus Gunnarsson,2017/18,21,5.1,30.9,11.5,0.1,9.5,0.1,0,0.1,0.2,0,0,0
+Fram,Lárus Helgi Ólafsson,2023/24,20,6.7,27.9,17.4,0.5,25.7,0.1,0,0.1,0,0,0,0
 Fram,Lárus Helgi Ólafsson,2022/23,21,6.9,29.2,16.8,0.2,17.2,0.1,0,0.3,0,0,0,0
 Fram,Lárus Helgi Ólafsson,2021/22,17,10.1,31.8,21.7,0.5,18.2,0.1,0,0.2,0.2,0,0,0
 Fram,Lárus Helgi Ólafsson,2020/21,22,12.6,34.7,23.7,0.4,20.9,0.1,0,0.2,0.1,0,0,0
 Fram,Lárus Helgi Ólafsson,2019/20,19,11.2,34,21.7,0.6,25,0.2,0,0.1,0.1,0,0.1,0
 Fram,Lárus Helgi Ólafsson,2018/19,14,2.9,27.4,7.6,0.1,10,0,0,0.1,0,0,0,0.1
-Haukar,Magnús Gunnar Karlsson,2023/24,5,1.2,23.1,4,0,0,0.2,0,0.2,0.2,0,0,0
+Afturelding,Lárus Helgi Ólafsson,2017/18,24,7.2,30.1,16.7,0.4,20,0.1,0,0.2,0,0,0,0
+Haukar,Magnús Gunnar Karlsson,2023/24,24,4.2,30,9.7,0.3,20.6,0.2,0,0.3,0.1,0,0,0
 Fram,Magnús Gunnar Erlendsson,2022/23,6,1,18.8,4.3,0,0,0,0,0.2,0,0,0,0
 Haukar,Magnús Gunnar Karlsson,2022/23,12,3.4,26.3,9.6,0.2,14.3,0.3,0,0,0,0,0,0
 Fram,Magnús Gunnar Erlendsson,2021/22,13,3.5,30.5,8.1,0.5,37.5,0,0,0,0,0,0,0
@@ -138,22 +163,26 @@ Haukar,Matas Pranckevicus,2022/23,34,3.4,25.9,9.6,0.2,17.1,0,0,0.1,0,0,0,0
 KA,Nicholas Adam Satchwell,2022/23,22,8,32.6,16.6,0.4,20.5,0,0,0.3,0.1,0,0,0
 KA,Nicholas Adam Satchwell,2021/22,23,8.4,29.1,20.4,0.4,16.1,0,0,0.2,0.1,0,0,0
 KA,Nicholas Adam Satchwell,2020/21,24,10.5,31.7,22.6,0.5,21.7,0,0,0.1,0,0,0,0
-KA,Nicolai Horntvedt Kristensen,2023/24,3,6,30.5,13.7,0.3,50,0,0,0,0,0,0,0
+KA,Nicolai Horntvedt Kristensen,2023/24,22,5.1,29.7,12,0.3,20,0,0,0,0.2,0,0,0
 IR,Óðinn Sigurðsson,2020/21,20,3.9,22,13.8,0.1,2.8,0,0,0.3,0.1,0,0,0
 IR,Óðinn Sigurðsson,2019/20,20,2.2,31.2,4.9,0.1,10.5,0,0,0.1,0.1,0,0,0
 IR,Óðinn Sigurðsson,2018/19,12,1.2,22.2,4.1,0.1,14.3,0,0,0,0,0,0,0
+IR,Óðinn Sigurðsson,2017/18,22,0.6,20.3,2.3,0,25,0,0,0,0,0,0,0
 IR,Ólafur Rafn Gíslason,2022/23,22,11.8,29.1,28.8,0.4,17.6,0.2,0.1,0.4,0.1,0,0,0
 IR,Ólafur Rafn Gíslason,2020/21,22,5.9,24.8,17.8,0.3,11.1,0,0.1,0.4,0.2,0,0,0
 Stjarnan,Ólafur Rafn Gíslason,2019/20,13,5.5,27.4,14.7,0.2,11.5,0,0,0.2,0.1,0,0,0
 Stjarnan,Ólafur Rafn Gíslason,2018/19,14,1.6,26.8,4.3,0,0,0,0,0.1,0.1,0.1,0,0
-KA,Óskar Þórarinsson,2023/24,2,0,0,2.5,0,0,0,0,0,0,0,0,0
+Stjarnan,Ólafur Rafn Gíslason,2017/18,5,4.2,34.4,8,0.2,20,0.2,0.4,0.2,0,0,0,0
+KA,Óskar Þórarinsson,2023/24,3,0,0,1.7,0,0,0,0,0,0,0,0,0
 KA,Óskar Þórarinsson,2021/22,2,0,0,0.5,0,0,0,0,0,0,0,0,0
-IBV,Pavel Miskevich,2023/24,5,4.8,20.7,18.4,0.2,12.5,0,0,0,0,0,0,0
+HK,Patrekur Guðni Þorbergsson,2023/24,5,1.8,34.6,3.4,0,0,0,0,0,0,0,0,0
+IBV,Pavel Miskevich,2023/24,29,6.1,29.8,14.3,0.6,26.7,0,0,0.3,0,0,0,0
 IBV,Pavel Miskevich,2022/23,20,6.3,28,16.2,0.4,15.1,0,0.1,0.1,0.1,0,0,0
 IBV,Páll Eiríksson,2020/21,2,1,66.7,0.5,0.5,50,0,0,0,0,0,0,0
 IBV,Páll Eiríksson,2018/19,1,5,27.8,13,0,0,0,0,0,0,0,0,0
 Afturelding,Pálmar Pétursson,2018/19,23,5,28.9,12.4,0.3,17.5,0.1,0.1,0.1,0,0,0,0
-IBV,Petar Jokanovic,2023/24,4,6.8,35.1,12.5,0.3,25,0,0,0.3,0,0,0,0
+Afturelding,Pálmar Pétursson,2017/18,2,0,0,0,0,0,0,0,0,0,0,0,0
+IBV,Petar Jokanovic,2023/24,28,7.7,32.5,16,0.2,13.9,0,0.1,0.6,0.1,0,0,0
 IBV,Petar Jokanovic,2022/23,30,7.3,30.5,16.6,0.6,26,0,0.2,0.2,0.1,0,0,0
 IBV,Petar Jokanovic,2021/22,30,5.9,25.2,17.5,0.4,18.6,0.1,0.2,0.3,0.2,0,0,0
 IBV,Petar Jokanovic,2020/21,26,8.6,31.7,18.5,0.5,25,0,0.1,0.3,0.2,0,0,0
@@ -163,25 +192,26 @@ FH,Phil Döhler,2021/22,23,12.2,35.7,22,0.4,14.1,0,0.2,0.4,0.4,0,0,0
 FH,Phil Döhler,2020/21,20,11.2,32.9,22.7,0.6,18.8,0,0.4,0.6,0.4,0,0,0
 FH,Phil Döhler,2019/20,20,11.3,34.9,21.1,0.4,12.5,0.1,0.1,0.4,0.2,0,0,0
 Hordur,Rolands Lebedevs,2022/23,21,5.8,21.9,20.7,0.4,20.9,0,0.1,0.1,0.1,0,0,0
-HK,Róbert Örn Karlsson,2023/24,6,3.3,27.4,8.8,0.2,14.3,0,0,0,0,0,0,0
+HK,Róbert Örn Karlsson,2023/24,18,2.4,25.4,7.2,0.1,11.8,0.1,0,0.1,0,0,0,0
 HK,Róbert Örn Karlsson,2021/22,20,1.5,20,5.8,0.3,23.1,0,0,0,0,0,0,0
 Fram,Róbert Örn Karlsson,2020/21,9,0.2,16.7,1.1,0.1,16.7,0,0,0,0,0,0,0
 IR,Rökkvi Pacheco Steinunnarson,2022/23,22,1.2,24.8,3.6,0.1,16.7,0,0,0,0,0,0,0
 Valur,Sakai Motoki,2022/23,23,3.6,28.3,9,0.2,22.2,0,0,0.1,0.1,0,0,0
 Valur,Sakai Motoki,2021/22,28,2,30.3,4.6,0.1,9.1,0,0,0.1,0,0,0,0
-Grotta,Shuhei Narayama,2023/24,4,1,15.4,5.5,0.3,20,0,0,0,0,0,0,0
-Stjarnan,Sigurður Dan Óskarsson,2023/24,6,8.5,32.5,17.7,0.3,14.3,0,0,0.2,0.2,0,0,0
+Grotta,Shuhei Narayama,2023/24,19,2.5,28.3,6.3,0.3,27.8,0.1,0,0.1,0.1,0,0,0
+Stjarnan,Sigurður Dan Óskarsson,2023/24,24,5.2,30.2,12,0.3,20.5,0,0,0.1,0.2,0,0,0
 Stjarnan,Sigurður Dan Óskarsson,2022/23,17,4.3,32.7,8.8,0.4,23.1,0.2,0.1,0.3,0.2,0.1,0,0
 Stjarnan,Sigurður Dan Óskarsson,2021/22,17,2.1,26.7,5.6,0.1,16.7,0,0,0,0.1,0,0,0
 Stjarnan,Sigurður Dan Óskarsson,2020/21,23,1.9,29.7,4.5,0.3,34.8,0.1,0,0,0,0,0,0
 FH,Sigurður Dan Óskarsson,2019/20,1,0,0,9,0,0,0,0,0,0,0,0,0
 IR,Sigurður Ingiberg Ólafsson,2019/20,20,12,34.4,22.8,0.3,16.7,0.1,0.1,0.7,0.3,0,0,0
 Stjarnan,Sigurður Ingiberg Ólafsson,2018/19,21,4.9,29.8,11.4,0.6,48.1,0,0,0.2,0.2,0,0,0
+Valur,Sigurður Ingiberg Ólafsson,2017/18,24,8.2,33.1,16.5,0.5,24.5,0,0,0.4,0.2,0,0,0
 HK,Sigurður Örn Arnarsson,2021/22,2,1,25,3,0,0,0,0,0,0.5,0,0,0
 Stjarnan,Sigurður Örn Arnarsson,2019/20,3,0,0,0.7,0,0,0,0,0,0,0,0,0
-HK,Sigurjón Guðmundsson,2023/24,6,8.8,29.8,20.8,0.3,22.2,0,0.3,0,0,0,0,0
+HK,Sigurjón Guðmundsson,2023/24,22,10.3,30.8,23.1,0.3,20.6,0.3,0.2,0.2,0.2,0,0,0
 HK,Sigurjón Guðmundsson,2021/22,22,9.8,30.2,22.6,0.4,15.7,0.1,0,0.4,0.2,0,0,0
-Valur,Stefán Pétursson,2023/24,1,1,100,0,0,0,0,0,0,0,0,0,0
+Valur,Stefán Pétursson,2023/24,8,1,29.6,2.4,0,0,0,0,0.1,0,0,0,0
 Valur,Stefán Pétursson,2022/23,3,0.7,20,2.7,0,0,0,0,0.3,0,0,0,0
 Valur,Stefán Pétursson,2021/22,4,0.5,25,1.5,0.5,66.7,0,0,0,0,0,0,0
 Hordur,Stefán Freyr Jónsson,2022/23,18,2.7,24.5,8.4,0.2,22.2,0,0,0.1,0,0,0,0
@@ -191,6 +221,7 @@ Grotta,Stefán Huldar Stefánsson,2020/21,20,12.3,35.1,22.7,0.7,23.6,0.1,0.1,0.6
 HK,Stefán Huldar Stefánsson,2019/20,16,4.9,30.6,11.1,0.3,26.3,0,0,0.3,0.1,0,0,0
 Stjarnan,Stephen Christian D. Nielsen,2019/20,5,8.6,36.1,15.2,0.2,11.1,0,0,0.8,0.2,0.2,0,0
 IR,Stephen Christian D. Nielsen,2018/19,24,10.5,30.9,23.5,0.5,19,0.1,0.2,0.5,0.2,0,0,0
+IBV,Stephen Christian D. Nielsen,2017/18,17,6.1,35.3,11.1,0.2,14.3,0.1,0.2,0.2,0.1,0.1,0,0
 FH,Svavar Ingi Sigmundsson,2022/23,1,1,25,3,1,50,0,0,0,0,0,0,0
 FH,Svavar Ingi Sigmundsson,2021/22,25,2,26.8,5.4,0.2,21.4,0,0.1,0,0,0,0,0
 KA,Svavar Ingi Sigmundsson,2020/21,13,0.8,25,2.3,0,0,0,0,0,0,0,0,0
@@ -198,19 +229,23 @@ KA,Svavar Ingi Sigmundsson,2019/20,20,2.9,26.9,7.9,0.5,32.1,0,0,0,0,0,0,0
 KA,Svavar Ingi Sigmundsson,2018/19,20,0.3,14.3,1.5,0.1,7.7,0,0,0.1,0,0,0,0
 Stjarnan,Sveinbjörn Pétursson,2019/20,3,7.3,28.9,18,0,0,0.3,0,0,0,0,0,0
 Stjarnan,Sveinbjörn Pétursson,2018/19,22,9.7,35.3,17.9,0.2,11.6,0,0,0.3,0.1,0,0,0
-Vikingur,Sverrir Andrésson,2023/24,5,7.4,28.9,18.2,0.8,30.8,0.4,0,0.4,0,0,0,0
+Stjarnan,Sveinbjörn Pétursson,2017/18,22,7.5,30.4,17.1,0.4,20,0.2,0.1,0.2,0.2,0,0,0
+Vikingur,Sverrir Andrésson,2023/24,12,5.5,24.4,17,0.8,34.6,0.2,0,0.3,0.2,0,0,0
 Vikingur,Sverrir Andrésson,2021/22,11,3.5,29.5,8.3,0.1,10,0.1,0.1,0.3,0.1,0,0,0
 Grotta,Sverrir Andrésson,2018/19,21,2.2,29.7,5.3,0,10,0,0,0.1,0,0,0,0
 Selfoss,Sölvi Ólafsson,2021/22,28,2,29.1,5,0.1,12.1,0,0,0.1,0,0,0,0
 Selfoss,Sölvi Ólafsson,2020/21,18,0,0,0.1,0,0,0,0,0,0,0,0,0
 Selfoss,Sölvi Ólafsson,2019/20,17,4,25.7,11.6,0.8,29.5,0.1,0,0,0.1,0,0,0
 Selfoss,Sölvi Ólafsson,2018/19,28,6.2,31.6,13.4,0.3,19.5,0,0,0.1,0,0,0,0
+Selfoss,Sölvi Ólafsson,2017/18,27,6.2,30.5,14.1,0.2,13.9,0,0,0.2,0,0,0,0
 Fram,Valtýr Már Hákonarson,2021/22,11,2.6,25.2,7.8,0.2,13.3,0,0.2,0.1,0,0,0,0
 Fram,Valtýr Már Hákonarson,2020/21,20,0.9,31,2,0.3,42.9,0,0,0,0,0,0,0
 Fram,Valtýr Már Hákonarson,2019/20,20,1.4,28.9,3.5,0.1,6.7,0.1,0,0,0,0,0,0
 Fram,Valtýr Már Hákonarson,2018/19,9,1,23.7,3.2,0,0,0,0,0,0,0,0,0
+Fram,Valtýr Már Hákonarson,2017/18,16,3.1,31.8,6.6,0.2,21.4,0,0.1,0,0,0,0,0
 IR,Viktor Bjarki Ómarsson,2020/21,5,1,23.8,3.2,0,0,0,0,0,0,0,0,0
 Fram,Viktor Gísli Hallgrímsson,2018/19,22,9.5,31.5,20.8,0.6,29.2,0,0.1,0.4,0.3,0,0,0
-Selfoss,Vilius Rasimas,2023/24,5,5.2,21.8,18.6,0,0,0,0,0,0,0,0,0
+Fram,Viktor Gísli Hallgrímsson,2017/18,22,9.6,28.3,24.5,0.6,25,0,0.2,0.4,0.1,0,0,0
+Selfoss,Vilius Rasimas,2023/24,21,6.2,29.3,14.9,0.5,25.6,0,0,0,0.1,0,0,0
 Selfoss,Vilius Rasimas,2022/23,23,9.3,31.5,20.3,0.4,25,0,0,0.2,0.2,0,0,0
-Grotta,Þórður Magnús Árnason,2023/24,1,0,0,0,0,0,0,0,0,0,0,0,0
+Grotta,Þórður Magnús Árnason,2023/24,2,0,0,0,0,0,0,0,0,0,0,0,0
