@@ -19,7 +19,7 @@ read_link <- function(link) {
   players[[1]]$Leikmaður
   
   players |> 
-    safely(map(
+    map(
       \(x) x |> 
         filter(
           str_detect(
@@ -30,7 +30,7 @@ read_link <- function(link) {
         mutate(
           Leikmaður = str_replace(Leikmaður, "^[0-9]+ - ", "")
         )
-    )) |> 
+    ) |> 
     map(pluck, "Leikmaður") |> 
     map(str_c, collapse = ";")
 }
@@ -101,7 +101,7 @@ names(urls) <- names(mot_nr)
 
 
 
-data <- urls |> 
+data <- urls[1:23] |> 
   map(
     \(x) {
       page <- read_html(x)
@@ -123,7 +123,7 @@ data <- urls |>
 
 
 d <- data[1:23] |> 
-  map(pluck("result")) |> 
+  #map(pluck("result")) |> 
   list_rbind(names_to = "timabil")
 
 d <- d |> 
@@ -147,7 +147,9 @@ d <- d |>
     heima,
     gestir,
     stig_heima,
-    stig_gestir
+    stig_gestir,
+    leikmenn_heima,
+    leikmenn_gestir
   )
 
 d |> 
