@@ -56,7 +56,14 @@ get_players <- function(page) {
     map(pluck, 2) |> 
     unlist()
   
-  list(heima, gestir)
+  tibble(
+    players = players
+  ) |> 
+    unnest_wider(players, names_sep = "_") |> 
+    rename(
+      heima = players_1,
+      gestir = players_2
+    )
   
 }
 
@@ -112,8 +119,8 @@ data <- urls[1:23] |>
       leikmenn <- get_players(page)
       leikmenn_heima <- character(tab_rows)
       leikmenn_gestir <- character(tab_rows)
-      leikmenn_heima[seq_along(leikmenn[[1]])] <- leikmenn[[1]]
-      leikmenn_gestir[seq_along(leikmenn[[2]])] <- leikmenn[[2]]
+      leikmenn_heima[seq_along(leikmenn[[1]])] <- leikmenn$heima
+      leikmenn_gestir[seq_along(leikmenn[[2]])] <- leikmenn$gestir
       table$leikmenn_heima <- leikmenn_heima
       table$leikmenn_gestir <- leikmenn_gestir
       table
