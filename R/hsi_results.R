@@ -8,6 +8,58 @@ library(tidyr)
 library(lubridate)
 Sys.setlocale("LC_ALL", "is_IS.UTF-8")
 
+read_link <- function(link) {
+  
+  page <- link |> 
+    read_html()
+  
+  players <- page |> 
+    html_table()
+  
+  players[[1]]$Leikmaður
+  
+  players |> 
+    safely(map(
+      \(x) x |> 
+        filter(
+          str_detect(
+            Leikmaður,
+            "^[0-9]+ - "
+          )
+        ) |> 
+        mutate(
+          Leikmaður = str_replace(Leikmaður, "^[0-9]+ - ", "")
+        )
+    )) |> 
+    map(pluck, "Leikmaður") |> 
+    map(str_c, collapse = ";")
+}
+
+get_players <- function(page) {
+  
+  links <- page |> 
+    html_elements("a") |> 
+    html_attr("href")
+  
+  links <- links[str_detect(links, "heima=[0-9]+&uti=[0-9]+")]
+  
+  links <- glue("https://www.hsi.is/{links}") |> 
+    as.character()
+  
+  players <- map(links, read_link)
+  
+  heima <- players |> 
+    map(pluck, 1) |> 
+    unlist()
+  
+  gestir <- players |> 
+    map(pluck, 2) |> 
+    unlist()
+  
+  list(heima, gestir)
+  
+}
+
 base_url <- "https://www.hsi.is/stodutafla/?mot={mot_nr}"
 
 mot_nr <- c(
@@ -50,15 +102,34 @@ names(urls) <- names(mot_nr)
 
 
 data <- urls |> 
-  map(\(x) read_html(x) |> html_table() |> pluck(2))
-  
-d <- data |> 
+  map(
+    \(x) {
+      page <- read_html(x)
+      table <- page |> 
+        html_table() |> 
+        pluck(2)
+      tab_rows <- nrow(table)
+      leikmenn <- get_players(page)
+      leikmenn_heima <- character(tab_rows)
+      leikmenn_gestir <- character(tab_rows)
+      leikmenn_heima[seq_along(leikmenn[[1]])] <- leikmenn[[1]]
+      leikmenn_gestir[seq_along(leikmenn[[2]])] <- leikmenn[[2]]
+      table$leikmenn_heima <- leikmenn_heima
+      table$leikmenn_gestir <- leikmenn_gestir
+      table
+    }
+  )
+
+
+
+d <- data[1:23] |> 
+  map(pluck("result")) |> 
   list_rbind(names_to = "timabil")
 
 d <- d |> 
   janitor::clean_names() |> 
   select(
-    timabil, dagur, timi, leikur, urslit
+    timabil, dagur, timi, leikur, urslit, leikmenn_heima, leikmenn_gestir
   ) |> 
   mutate(
     dags = dmy_hm(str_c(dagur, timi, sep = " ")),
@@ -80,4 +151,4 @@ d <- d |>
   )
 
 d |> 
-  write_csv("data/hsi_results.csv")
+  write_csv("data/hsi_results_with_players.csv")
