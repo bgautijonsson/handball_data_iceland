@@ -99,4 +99,5 @@ old_data <- read_csv(
 old_data |> 
   filter(timabil < 2025) |>
   bind_rows(d) |> 
+  drop_na() |> 
   write_csv("data/hsi_results.csv")
