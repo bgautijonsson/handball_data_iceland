@@ -8,33 +8,6 @@ library(tidyr)
 library(lubridate)
 Sys.setlocale("LC_ALL", "is_IS.UTF-8")
 
-read_link <- function(link) {
-  
-  page <- link |> 
-    read_html()
-  
-  players <- page |> 
-    html_table()
-  
-  players[[1]]$Leikmaður
-  
-  players |> 
-    map(
-      \(x) x |> 
-        filter(
-          str_detect(
-            Leikmaður,
-            "^[0-9]+ - "
-          )
-        ) |> 
-        mutate(
-          Leikmaður = str_replace(Leikmaður, "^[0-9]+ - ", "")
-        )
-    ) |> 
-    map(pluck, "Leikmaður") |> 
-    map(str_c, collapse = ";")
-}
-
 
 base_url <- "https://www.hsi.is/stodutafla/?mot={mot_nr}"
 
