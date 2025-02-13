@@ -8,11 +8,25 @@ library(tidyr)
 library(lubridate)
 Sys.setlocale("LC_ALL", "is_IS.UTF-8")
 
-
 base_url <- "https://www.hsi.is/stodutafla/?mot={mot_nr}"
 
 mot_nr <- c(
-  "2025" = 7641
+  "2025" = 7644,
+  "2024" = 6981,
+  "2023" = 6143,
+  "2022" = 5643,
+  "2021" = 5262,
+  "2020" = 4301,
+  "2019" = 3083,
+  "2018" = 2622,
+  "2017" = 2181,
+  "2016" = 2107,
+  "2015" = 2034,
+  "2014" = 1965,
+  "2013" = 1899,
+  "2012" = 1812,
+  "2011" = 1738,
+  "2010" = 1679
 )
 
 urls <- glue(base_url) |> as.character()
@@ -34,7 +48,6 @@ data <- urls |>
 
 
 d <- data |> 
-  #map(pluck("result")) |> 
   list_rbind(names_to = "timabil")
 
 d <- d |> 
@@ -59,18 +72,7 @@ d <- d |>
     gestir,
     stig_heima,
     stig_gestir
-  ) |> 
-  mutate(
-    timabil = as.numeric(timabil)
   )
 
-
-old_data <- read_csv(
-  "data/hsi_results_kk.csv"
-) 
-
-old_data |> 
-  filter(timabil < 2025) |>
-  bind_rows(d) |> 
-  drop_na() |> 
-  write_csv("data/hsi_results_kk.csv")
+d |> 
+  write_csv("data/hsi_deild2_results_kk.csv")
